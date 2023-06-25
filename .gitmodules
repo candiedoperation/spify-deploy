@@ -1,0 +1,6 @@
+[submodule "spify"]
+	path = spify
+	url = https://github.com/candiedoperation/spify.git
+[submodule "spify-server"]
+	path = spify-server
+	url = https://github.com/candiedoperation/spify-server.git
